@@ -60,8 +60,23 @@ streamlit run app.py
 - PDF export
 - Excel export
 - Drug interaction checker
+## 📸 Application Preview
 
+### Home Page
 
+![Home Page](images/home%20page.png)
+
+### Output 1
+
+![Output 1](images/output1.png)
+
+### Output 2
+
+![Output 2](images/output2.png)
+
+### Output 3
+
+![Output 3](images/output3.png)
 ## 👩‍💻 Author
 
 **Hasini**
