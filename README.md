@@ -62,21 +62,13 @@ streamlit run app.py
 - Drug interaction checker
 ## 📸 Application Preview
 
-### Home Page
+![Home Page](home%20page.png)
 
-![Home Page](images/home%20page.png)
+![Output 1](output1.png)
 
-### Output 1
+![Output 2](output2.png)
 
-![Output 1](images/output1.png)
-
-### Output 2
-
-![Output 2](images/output2.png)
-
-### Output 3
-
-![Output 3](images/output3.png)
+![Output 3](output%203.png)
 ## 👩‍💻 Author
 
 **Hasini**
